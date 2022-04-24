@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chirashish Jeena
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web and App Development
 - 🌱 I’m currently learning MERN Stack
 
 
